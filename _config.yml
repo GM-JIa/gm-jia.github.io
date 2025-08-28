@@ -22,7 +22,7 @@ repository               : "GM-JIa/gm-jia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myphoto.png"
   name             : "Guangmei Jia" # Your name
   pronouns         : # example: "she/her"  
   bio              : "student of Qufu Normal University"
